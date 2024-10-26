@@ -1,0 +1,49 @@
+.inline-header li{
+    color: #0000;
+    padding: 30px;
+    margin: 0px;
+    list-style: none;
+    display: inline;
+
+}
+
+
+#absolute-nav-section {
+    position: static;
+    padding: 50px;
+    background-color: greenyellow;
+    top: 5px;
+    right: 100px
+}
+
+#main-landing {
+    padding-top: 40px;
+    left: 200px
+}
+
+#main-landing h1 {
+    text-align: center;
+    padding: 10px;
+}
+
+.centered-element {
+        position:static; 
+        
+        padding: 20px; 
+        border: 1px solid #ccc; 
+        border-radius: 5px; 
+        background-color: #f9f9f9; 
+}
+
+#inline-footer {
+    position: static; /* Makes the footer static */
+    padding: 30px;
+    background-color: rgb(37, 139, 73); /* Optional background color */
+    color: white; /* Optional text color */
+    text-align: center; /* Center the text */
+    margin-top: 20px; /
+}
+
+#inline-footer ul{
+    list-style-type: none;
+}
